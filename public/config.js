@@ -21,7 +21,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_CUSTOM_MENUS": "Frans' Bot Dashboard, https://franshisbot.com/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
-  "VITE_DISCORD_URL": "",
+  "VITE_DISCORD_URL": "https://discord.com/invite/acmXdhKg",
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Frans' Bot",
   "VITE_SEO_SITE_DESCRIPTION": "This DEX, powered by Frans' Bot and Orderly, lets you connect TradingView indicators as direct trade signals! Secure and easy to setup!",

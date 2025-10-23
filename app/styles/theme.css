@@ -1,8 +1,8 @@
 :root {
-  --oui-font-family: 'Quicksand', sans-serif;
-  --oui-font-size-base: 16px;
+  --oui-font-family: 'Ubuntu', sans-serif;
+  --oui-font-size-base: 13px;
 
-  /* colors - Swapped base/primary and increased vibrance slightly */
+  /* colors */
   --oui-color-primary: 220 225 232;
   --oui-color-primary-light: 235 238 243;
   --oui-color-primary-darken: 176 184 196;
@@ -52,7 +52,7 @@
   --oui-color-trading-profit: 0 212 170;
   --oui-color-trading-profit-contrast: 255 255 255;
 
-  /* gradients - More vibrant purples */
+  /* gradients */
   --oui-gradient-primary-start: 95 75 255;
   --oui-gradient-primary-end: 115 100 220;
 
@@ -95,11 +95,6 @@
 }
 
 html, body {
-  font-family: 'Quicksand', sans-serif !important;
-  font-size: 16px !important;
-}
-
-/* Ensure button text is white */
-button, .btn, a.btn {
-  color: #ffffff !important;
+  font-family: 'Ubuntu', sans-serif !important;
+  font-size: 13px !important;
 }

@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/fransbot-6546/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
-  "VITE_SEO_TWITTER_HANDLE": "",
+  "VITE_SEO_TWITTER_HANDLE": "@FransHisBot",
   "VITE_SEO_THEME_COLOR": "#2a223a",
   "VITE_SEO_KEYWORDS": "dex,bot,algo,trading,frans,automated,tradingview,signal,alert,24/7",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",

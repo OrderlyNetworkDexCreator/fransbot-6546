@@ -1,6 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "frans-bot",
   "VITE_ORDERLY_BROKER_NAME": "FransBot",
+  "VITE_BROKER_EOA_ADDRESS": "0xa9a0b6fba4cf52b757d590b4d85795347b675a0c",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "42161,10,8453,5000,1,56,1329,43114,900900900,2818,146,80094,1514,34443,98866,2741",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards",
   "VITE_CUSTOM_MENUS": "Frans' Bot Dashboard, https://franshisbot.com/",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "https://discord.com/invite/acmXdhKg",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": ""
 };

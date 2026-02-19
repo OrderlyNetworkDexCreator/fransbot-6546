@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards,Swap",
-  "VITE_CUSTOM_MENUS": "Frans' Bot Dashboard, https://franshisbot.com/; Strategy Designer, https://franshisbot.com/fransbotcharts/",
+  "VITE_CUSTOM_MENUS": "Frans' Bot, https://franshisbot.com/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",

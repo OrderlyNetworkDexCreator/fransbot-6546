@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Alcedo",
   "VITE_SEO_SITE_DESCRIPTION": "This DEX, powered by Alcedo's Bot and Orderly, lets you write your own trading strategies and deploy them to trade 24/7. Secure and easy to set up!",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/fransbot-6546/",
+  "VITE_SEO_SITE_URL": "https://dex.alcedo.bot",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
